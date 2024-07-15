@@ -625,8 +625,28 @@ file = "kubejs/jsconfig.json"
 hash = "20f3331997db95f0c08f6ce6eb7dbb5a3eac0182e08d68407167d3c6e19af772"
 
 [[files]]
+file = "kubejs/server_scripts/constants/unify.js"
+hash = "e298b64c535f4f8476e7af174279040c646d58a69a6a12603a9633bcfa21d483"
+
+[[files]]
 file = "kubejs/server_scripts/functions.js"
 hash = "503607358cafd1fa5655bb0741c2ab7f536a7db8d951eec9d656067f38802504"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/mods/immersiveengineering/metal_press.js"
+hash = "3e950561e4c7f8a889ffbcb02034cf4320a8e5c5800d3413592f97aafa5ec802"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/mods/minecraft/shaped.js"
+hash = "764ffb1c1d129a0f1b247fd800f67ed0acadf912b48cf351234e8538c3b22af1"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/mods/minecraft/shapeless.js"
+hash = "d94fb049cfd8517c59f53026682bc15225eec388fed6513651747d27947dab83"
+
+[[files]]
+file = "kubejs/server_scripts/recipes/remove.js"
+hash = "262d3b315d00924d0bf8629f8b931bcdabced61e2041e9b338c8c07e067ec1b4"
 
 [[files]]
 file = "kubejs/startup_scripts/better_stack.js"
@@ -823,6 +843,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "9a6d944e6518ef55ec14dcdac4ec8fad74f02572874d37769590aeca616ad4d5"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "6ecc31d75d379730df8fe950438b4ca26ed1daa8612406374552665f9222f9ea"
 metafile = true
 
 [[files]]
