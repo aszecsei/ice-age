@@ -1,0 +1,13 @@
+name = "Ice Age"
+author = "crow-maki"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "cdd0465cc6a3cd83df5512cdaba57ac38617b1e8eded5d7006909abb3198171f"
+
+[versions]
+minecraft = "1.20.1"
+neoforge = "47.1.106"

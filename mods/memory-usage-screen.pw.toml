@@ -1,0 +1,13 @@
+name = "Memory Usage Screen [Forge/Fabric]"
+filename = "memoryusagescreen-forge-mc1.20-1.9.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8e4e489feeaf661cd418e74149ef35b466cee27a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4591556
+project-id = 500009
